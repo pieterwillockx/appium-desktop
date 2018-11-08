@@ -167,7 +167,7 @@
     "electron": "^3.0.3",
     "electron-builder": "^20.13.2",
     "electron-builder-lib": "^20.15.3",
-    "electron-builder-squirrel-windows": "^20.15.0",
+    "electron-builder-squirrel-windows": "^20.33.2",
     "electron-devtools-installer": "^2.2.3",
     "eslint": "3.x",
     "eslint-config-appium": "1.x",
